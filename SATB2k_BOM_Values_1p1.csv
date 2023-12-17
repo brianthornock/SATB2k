@@ -1,0 +1,42 @@
+Qty;Value;Device;Package;Parts;Description;DESCRIPTION;HEIGHT;MANUFACTURER_NAME;MANUFACTURER_PART_NUMBER;MF;MOUSER_PART_NUMBER;MOUSER_PRICE-STOCK;MPN;OC_FARNELL;OC_NEWARK;POPULARITY;SPICEPREFIX
+1;;4PDT;4PDT.TOGGLE;BYPASS;4PDT Switches;;;;;;;;;;;;
+2;;DPDT.LUGS;DPDT.LUGS;PROBE_SW, TONE;DPDT Switches;;;;;;;;;;;;
+1;100k;3362P;3362P;HPVOL;3362 Series;;;;;;;;;;;;
+2;100k;R-US_0204/7;0204/7;R16, R25;RESISTOR, American symbol;;;;;;;;;;;;R
+1;100kA;16MM.1;16MM_B.MOUNT;TONE_VOL;16mm Poteniometers;;;;;;;;;;;;
+2;100n;C-EU050-025X075;C050-025X075;C11, C27;CAPACITOR, European symbol;;;;;;;;;;;;C
+3;100u;CPOL-USE2.5-6;E2,5-6;C13, C14, C17;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+4;10k;R-US_0204/7;0204/7;R1, R5, R9, R18;RESISTOR, American symbol;;;;;;;;;;;;R
+1;10k;TRIM_US-B25P;B25P;FREQ;POTENTIOMETER;;;;;;;;;;;;
+1;10n;C-EU050-025X075;C050-025X075;C15;CAPACITOR, European symbol;;;;;;;;;;;;C
+1;150n;C-EU050-025X075;C050-025X075;C2;CAPACITOR, European symbol;;;;;;;;;;;;C
+1;15n;C-EU050-025X075;C050-025X075;C10;CAPACITOR, European symbol;;;;;;;;;;;;C
+3;1M;R-US_0204/7;0204/7;R2, R21, R26;RESISTOR, American symbol;;;;;;;;;;;;R
+1;1N4148DO35-7;1N4148DO35-7;DO35-7;D4;DIODE;;;;;;;;;;;58;
+1;1k;R-US_0204/7;0204/7;R4;RESISTOR, American symbol;;;;;;;;;;;;R
+1;1n;C-EU050-025X075;C050-025X075;C12;CAPACITOR, European symbol;;;;;;;;;;;;C
+1;1u;C-EU050-045X075;C050-045X075;C19;CAPACITOR, European symbol;;;;;;;;;;;;C
+1;220R;R-US_0204/7;0204/7;R12;RESISTOR, American symbol;;;;;;;;;;;;R
+1;220k;R-US_0204/7;0204/7;R11;RESISTOR, American symbol;;;;;;;;;;;;R
+1;220p;C-EU050-025X075;C050-025X075;C20;CAPACITOR, European symbol;;;;;;;;;;;;C
+3;22k;R-US_0204/7;0204/7;R8, R22, R29;RESISTOR, American symbol;;;;;;;;;;;;R
+4;22n;C-EU050-025X075;C050-025X075;C1, C3, C23, C26;CAPACITOR, European symbol;;;;;;;;;;;;C
+1;2N5088;2N5088;TO92;Q2;NPN - 2n5088, 2n5089, 2n3904, MPSA18;;;;;;;;;;;;
+1;2N5457;2N5457;TO92;Q4;2n5457, J201, MPF102;;;;;;;;;;;;
+1;2N7000;2N7000;TO92;Q1;N-Channel Mosfet;;;;;;;;;;;;
+4;2k2;R-US_0204/7;0204/7;R10, R13, R14, R23;RESISTOR, American symbol;;;;;;;;;;;;R
+2;2n2;C-EU050-025X075;C050-025X075;C5, C7;CAPACITOR, European symbol;;;;;;;;;;;;C
+3;33k;R-US_0204/7;0204/7;R6, R7, R17;RESISTOR, American symbol;;;;;;;;;;;;R
+1;3k3;R-US_0204/7;0204/7;R28;RESISTOR, American symbol;;;;;;;;;;;;R
+2;3n3;C-EU050-025X075;C050-025X075;C4, C6;CAPACITOR, European symbol;;;;;;;;;;;;C
+2;470R;R-US_0204/7;0204/7;R19, R20;RESISTOR, American symbol;;;;;;;;;;;;R
+1;470k;R-US_0204/7;0204/7;R3;RESISTOR, American symbol;;;;;;;;;;;;R
+1;47u;CPOL-USE2.5-6;E2,5-6;C18;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+1;4k7;R-US_0204/7;0204/7;R24;RESISTOR, American symbol;;;;;;;;;;;;R
+1;4u7;CPOL-USE2.5-6;E2,5-6;C16;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+1;6k8;R-US_0204/7;0204/7;R15;RESISTOR, American symbol;;;;;;;;;;;;R
+2;6n8;C-EU050-025X075;C050-025X075;C8, C9;CAPACITOR, European symbol;;;;;;;;;;;;C
+3;LED.3;LED.3;3MM_2;D1, D2, D3;LEDs, all sizes;;;;;;;;;;;;
+1;MMBFJ201;MMBFJ201;SOT95P240X120-3N;Q3;N-Channel General Purpose Amplifier;N-Channel General Purpose Amplifier;1.2mm;ON Semiconductor;MMBFJ201;;512-MMBFJ201;https://www.mouser.com/Search/Refine.aspx?Keyword=512-MMBFJ201;;;;;
+1;NE5532N;NE5532N;DIL08;U1;OP-AMP;;;;;;;;;;;;
+1;NE555;NE555;DIL-08;IC1;General purpose bipolar Timer;;;;;Arrow Electronics;;;NE555N;1467742;89K1486;24;

@@ -1,0 +1,67 @@
+Part;Value;Device;Package;Description;DESCRIPTION;HEIGHT;MANUFACTURER_NAME;MANUFACTURER_PART_NUMBER;MF;MOUSER_PART_NUMBER;MOUSER_PRICE-STOCK;MPN;OC_FARNELL;OC_NEWARK;POPULARITY;SPICEPREFIX
+BYPASS;;4PDT;4PDT.TOGGLE;4PDT Switches;;;;;;;;;;;;
+C1;22n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C2;150n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C3;22n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C4;3n3;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C5;2n2;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C6;3n3;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C7;2n2;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C8;6n8;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C9;6n8;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C10;15n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C11;100n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C12;1n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C13;100u;CPOL-USE2.5-6;E2,5-6;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+C14;100u;CPOL-USE2.5-6;E2,5-6;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+C15;10n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C16;4u7;CPOL-USE2.5-6;E2,5-6;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+C17;100u;CPOL-USE2.5-6;E2,5-6;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+C18;47u;CPOL-USE2.5-6;E2,5-6;POLARIZED CAPACITOR, American symbol;;;;;;;;;;;;C
+C19;1u;C-EU050-045X075;C050-045X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C20;220p;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C23;22n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C26;22n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+C27;100n;C-EU050-025X075;C050-025X075;CAPACITOR, European symbol;;;;;;;;;;;;C
+D1;LED.3;LED.3;3MM_2;LEDs, all sizes;;;;;;;;;;;;
+D2;LED.3;LED.3;3MM_2;LEDs, all sizes;;;;;;;;;;;;
+D3;LED.3;LED.3;3MM_2;LEDs, all sizes;;;;;;;;;;;;
+D4;1N4148DO35-7;1N4148DO35-7;DO35-7;DIODE;;;;;;;;;;;58;
+FREQ;10k;TRIM_US-B25P;B25P;POTENTIOMETER;;;;;;;;;;;;
+HPVOL;100k;3362P;3362P;3362 Series;;;;;;;;;;;;
+IC1;NE555;NE555;DIL-08;General purpose bipolar Timer;;;;;Arrow Electronics;;;NE555N;1467742;89K1486;24;
+PROBE_SW;;DPDT.LUGS;DPDT.LUGS;DPDT Switches;;;;;;;;;;;;
+Q1;2N7000;2N7000;TO92;N-Channel Mosfet;;;;;;;;;;;;
+Q2;2N5088;2N5088;TO92;NPN - 2n5088, 2n5089, 2n3904, MPSA18;;;;;;;;;;;;
+Q4;J201;2N5457;TO92;2n5457, J201, MPF102;;;;;;;;;;;;
+R1;10k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R2;1M;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R3;470k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R4;1k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R5;10k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R6;33k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R7;33k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R8;22k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R9;10k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R10;2k2;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R11;220k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R12;220R;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R13;2k2;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R14;2k2;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R15;6k8;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R16;100k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R17;33k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R18;10k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R19;470R;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R20;470R;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R21;1M;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R22;22k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R23;2k2;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R24;4k7;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R25;100k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R26;1M;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R28;3k3;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+R29;22k;R-US_0204/7;0204/7;RESISTOR, American symbol;;;;;;;;;;;;R
+TONE;;DPDT.LUGS;DPDT.LUGS;DPDT Switches;;;;;;;;;;;;
+TONE_VOL;100kA;16MM.1;16MM_B.MOUNT;16mm Poteniometers;;;;;;;;;;;;
+U1;NE5532N;NE5532N;DIL08;OP-AMP;;;;;;;;;;;;
